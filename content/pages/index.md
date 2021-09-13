@@ -2,9 +2,10 @@
 title: Home
 sections:
   - type: hero_section
-    title: Hi, I’m Alyvia. I help my clients succeed online.
+    title: 'Hi, I’m Alyvia. I help my clients succeed online.'
     subtitle: >-
-      I will handle your website design and production, social media accounts and digital advertisements for you, at an affordable price.
+      I will handle your website design and production, social media accounts
+      and digital advertisements for you, at an affordable price.
     actions:
       - label: Contact Me
         url: /contact
@@ -47,7 +48,7 @@ sections:
       - image: images/logo-7.svg
         image_alt: Logo 7
         image_align: center
-      - image: images/logo-8.svg
+      - image: /images/gordon-norman.png
         image_alt: Logo 8
         image_align: center
     grid_cols: four
@@ -58,7 +59,7 @@ sections:
     subtitle: What I do
     features:
       - title: Content Creation
-        subtitle: Website, blog, social media and more.
+        subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
@@ -209,26 +210,26 @@ seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Stackbit Personal Theme
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: The preview of the Personal theme
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/personal-preview.png
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Stackbit Personal Theme
-    - name: twitter:description
+    - name: 'twitter:description'
       value: The preview of the Personal theme
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/personal-preview.png
       relativeUrl: true
 layout: advanced
